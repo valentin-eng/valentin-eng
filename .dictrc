@@ -1,0 +1,5 @@
+#server gcide.gnu.org.ua
+#server wordnet.princeton.edu
+#server freedict.org { port  fd-eng-deu }
+server dict.org 
+

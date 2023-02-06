@@ -1,0 +1,5 @@
+remove Control = Control_R
+keycode 47 = Control_R
+add Control = Control_R
+keycode 105 = odiaeresis eacute odiaeresis eacute dead_acute dead_doubleacute dead_acute
+keycode 48 = Alt_L adiaeresis
